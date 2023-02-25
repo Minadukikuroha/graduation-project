@@ -12,8 +12,8 @@ const users = {
   'admin-token': {
     roles: ['admin'],
     introduction: 'I am a super administrator',
-    avatar: 'https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif',
-    name: 'Super Admin'
+    avatar: 'https://www.shejihz.com/wp-content/uploads/cx_img/199/a65de5b9db28d29a7cc0792476c80f86-560x360-2-0.jpg',
+    name: '教师a'
   },
   'editor-token': {
     roles: ['editor'],
